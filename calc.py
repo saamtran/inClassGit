@@ -10,7 +10,11 @@ def calc(a,b):
 
     array.append(sub)
 
-    
+    multiply = a * b
+    print(multiply)
+
+    array.append(multiply)
+
 
 def main():
     a = 15
