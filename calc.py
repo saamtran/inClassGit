@@ -5,6 +5,11 @@ def calc(a,b):
     array = []
     array.append(sum)
 
+    sub = a - b
+    print(sub)
+
+    array.append(sub)
+
     
 
 def main():
