@@ -15,6 +15,12 @@ def calc(a,b):
 
     array.append(multiply)
 
+    divide = a / b
+    print(divide)
+
+    array.append(divide)
+
+    print(array)
 
 def main():
     a = 15
