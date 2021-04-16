@@ -20,6 +20,7 @@ def calc(a,b):
 
     array.append(divide)
 
+    # print the array
     print(array)
 
 def main():
